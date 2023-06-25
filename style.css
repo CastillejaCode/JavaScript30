@@ -1,0 +1,9 @@
+body {
+	background-color: rgb(212, 212, 212);
+}
+
+ol {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+}
